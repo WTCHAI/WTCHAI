@@ -11,9 +11,10 @@
 
 
 # Challenge
-    - Style new Ux Ui design by using tailwind Css
 
-    - Boarding pass rendering 
+#### Style new Ux Ui design by using tailwind Css
+
+#### Boarding pass rendering 
 
     I think , I could do it but I have to reading for incoming final test . 
         Boarding pass need new data structure and also input form
