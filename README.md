@@ -19,11 +19,11 @@
     I think , I could do it but I have to reading for incoming final test . 
         Boarding pass need new data structure and also input form
         - More flight Details
-        - Config more props , funciton , interface and data structure to using and passing data each detial to boarding pass 
+        - Config more props , funciton , interface and data structure to using and passing each detial to boarding pass 
         - New input of timeStamp (having individal date 00/00/00 and time 12:00) 
-        - Try changing Departure and Arrived log form by using flight details(A0137) instead of airport , passengerName and timeStamp.
+        - Also Try changing Departure and Arrived log form by using flight details(A0137) instead of airport , passengerName and timeStamp.
         
-    And all of these above depend on what design of ui and data flow of this web application at the first place . 
+    And all of these above depend on what design of ui and data flow of this web application since the first place . 
 
  
 
