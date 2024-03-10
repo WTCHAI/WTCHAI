@@ -17,12 +17,14 @@
 
 #### Boarding pass rendering 
 
-    I think , I could do it but I have to reading for final test . 
-        Boarding pass need new data structure and also in input form such a
-        - more flight Details
-        - new input of timeStamp like having individal date 00/00/00 and time 12:00 or when arrived just use only flight details ,name and timeStamp
+    I think , I could do it but I have to reading for incoming final test . 
+        Boarding pass need new data structure and also input form
+        - More flight Details
+        - Config more props , funciton , interface and data structure to using and passing data each detial to boarding pass 
+        - New input of timeStamp (having individal date 00/00/00 and time 12:00) 
+        - Try changing Departure and Arrived log form by using flight details(A0137) instead of airport , passengerName and timeStamp.
         
-## All of these depends on designing dataflow and uxui since the first place
+    And all of these above depend on what design of ui and datflow of this web application at the first place . 
 
  
 
