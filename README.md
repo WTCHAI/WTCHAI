@@ -1,21 +1,19 @@
 
 # Requirment
 
-- Debugging web app
+- Debugging web app 
 - Printing average for each flights path
 
 
 # Extra
-
-
-#### Didn't optimize running time complexity of Findding average paths algrithms to O(1) 
-#### Refactor 
+    - Didn't optimize running time complexity of Finding average paths algrithms to O(1)
+    - Refactor some of data and ui structure
 
 
 # Challenge
-#### Style new Ux Ui design by using tailwind Css
+    - Style new Ux Ui design by using tailwind Css
 
-#### Boarding pass rendering 
+    - Boarding pass rendering 
 
     I think , I could do it but I have to reading for incoming final test . 
         Boarding pass need new data structure and also input form
@@ -24,7 +22,7 @@
         - New input of timeStamp (having individal date 00/00/00 and time 12:00) 
         - Try changing Departure and Arrived log form by using flight details(A0137) instead of airport , passengerName and timeStamp.
         
-    And all of these above depend on what design of ui and datflow of this web application at the first place . 
+    And all of these above depend on what design of ui and data flow of this web application at the first place . 
 
  
 
