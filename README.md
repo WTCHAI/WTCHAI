@@ -1,11 +1,10 @@
-Hi, My name is Pittaya. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Pittaya Suteerawut
 ===============================================================================================================================
 
-Software developers
+I'm studying in Computer Engineering interested in Finance , Fullstack and Blockchain development.
 -------------------
-
-*   🌍  I was born in Thailand
-*   🤝  I'm currently interested in Finance , Blockchain and Biometric.
+*   📚  Kasetsart University  
+*   🌍  Thailand
 
 ### Skills 
 <p align="left">
