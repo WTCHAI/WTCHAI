@@ -33,8 +33,9 @@ I'm studying in Computer Engineering interested in Finance , Fullstack and Block
 #### 💻 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white)
@@ -46,3 +47,9 @@ I'm studying in Computer Engineering interested in Finance , Fullstack and Block
 ![Logisim](https://img.shields.io/badge/Logisim-00599C?style=for-the-badge&logo=logisim&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-0A0A0A?style=for-the-badge&logo=proteus&logoColor=white)
 
+
+![Pittaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Project1](https://img.shields.io/badge/Project1-My_Project-blue)](https://github.com/yourusername/project1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Name-blue)](https://www.linkedin.com/in/yourusername/)
+[![Email](https://img.shields.io/badge/Email-Your_Email-red)](mailto:your-email@example.com)
