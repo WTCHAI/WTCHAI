@@ -1,4 +1,4 @@
-Pittaya Suteerawut
+## Pittaya Suteerawut
 -------------------
 
 I'm studying in Computer Engineering interested in Finance , Fullstack and Blockchain development.
@@ -6,33 +6,15 @@ I'm studying in Computer Engineering interested in Finance , Fullstack and Block
 *   📚  Kasetsart University  
 *   🌍  Thailand
 
-### Skills 
-<main align="left">
-  <div>
-    <h3>
-      Frontend 
-    </h3>
-    <div>
-       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-      </a>
-      <a href="https://reactjs.org/"  rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-      </a>
-      <a href="https://nextjs.org/docs" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-      </a>
-      <a href="https://tailwindcss.com/" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-      </a>
-      <a href="https://www.figma.com/"  rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-      </a>
-      <a href="https://www.sketch.com/" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" />
-      </a>
-    </div>
-  </div>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
   <div>
     <h3>
       Backend 
