@@ -1,10 +1,10 @@
 ## Pittaya Suteerawut
 -------------------
 
-I'm studying in Computer Engineering interested in Finance , Fullstack and Blockchain development.
+I'm really interested in finance, blockchain technology, fullstack development and biometric ecosystem. 
 
-*   📚  Kasetsart University  
-*   🌍  Thailand
+*   📚  Studying in Computer Engineering at Kasetsart University.  
+*   🌍  Thailand.
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=react&logoColor=61DAFB)
