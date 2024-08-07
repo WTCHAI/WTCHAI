@@ -46,10 +46,3 @@ I'm studying in Computer Engineering interested in Finance , Fullstack and Block
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Logisim](https://img.shields.io/badge/Logisim-00599C?style=for-the-badge&logo=logisim&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-0A0A0A?style=for-the-badge&logo=proteus&logoColor=white)
-
-
-![Pittaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Project1](https://img.shields.io/badge/Project1-My_Project-blue)](https://github.com/yourusername/project1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Name-blue)](https://www.linkedin.com/in/yourusername/)
-[![Email](https://img.shields.io/badge/Email-Your_Email-red)](mailto:your-email@example.com)
