@@ -1,7 +1,7 @@
 ## Pittaya Suteerawut
 -------------------
 
-I'm really interested in finance, blockchain technology, fullstack development and biometric ecosystem. 
+I'm interested in finance, blockchain technology, fullstack development and biometric ecosystem. 
 
 *   📚  Studying in Computer Engineering at Kasetsart University.  
 *   🌍  Thailand.
