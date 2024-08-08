@@ -42,6 +42,5 @@ I'm interested in finance, blockchain technology, fullstack development and biom
 #### 😭 Alternative 
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Logisim](https://img.shields.io/badge/Logisim-00599C?style=for-the-badge&logo=logisim&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-0A0A0A?style=for-the-badge&logo=proteus&logoColor=white)
