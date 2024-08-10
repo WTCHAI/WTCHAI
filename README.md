@@ -1,7 +1,7 @@
 ## Pittaya Suteerawut
 -------------------
 
-Strong interested in finance, blockchain technology, full-stack development, biometric ecosystems, and Zero Knowledge Proofs. Focusing on exploring how these areas intersect and can be leveraged to create innovative solutions in the tech industry.
+Strong interested in finance, blockchain technology, full-stack development, biometric ecosystems, and Zero Knowledge Proofs. Focusing on exploring how these areas intersect and can be leveraged to create innovative solutions.
 
 *   📚  Studying in Computer Engineering at Kasetsart University.  
 *   🌍  Thailand.
